@@ -2,13 +2,13 @@
 ### Real-Time Sleep Detection & Alert System using Deep Learning
 
 <p align="center">
-  <img src="SleepGuardAI Dashboard.png" width="100%" alt="SleepGuardAI dashboard"/>
+  <img src="dashboard.png" width="100%" alt="SleepGuardAI dashboard"/>
   <br><br>
 
-  <img src="SleepGuardAI analysis.png" width="100%" alt="SleepGuardAI analysis"/>
+  <img src="analysis.png" width="100%" alt="SleepGuardAI analysis"/>
   <br><br>
 
-  <img src="SleepGuardAI live.png" width="100%" alt="SleepGuardAI live"/>
+  <img src="live.png" width="100%" alt="SleepGuardAI live"/>
 </p>
 
 ---
